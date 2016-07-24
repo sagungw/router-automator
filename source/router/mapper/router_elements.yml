@@ -1,0 +1,9 @@
+WLAN Password:
+  selector: 'PreSharedKey'
+  selector_type: 'css'
+Save Button:
+  selector: "//input[@type='BUTTON' and @value='SAVE']"
+  selector_type: 'xpath'
+Cancel Button:
+  selector: "//input[@type='BUTTON' and @value='CANCEL']"
+  selector_type: 'xpath'
